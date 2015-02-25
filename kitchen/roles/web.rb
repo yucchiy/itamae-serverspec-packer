@@ -4,3 +4,4 @@ execute "update a package manager" do
 end
 
 include_recipe "../recipes/nginx.rb"
+include_recipe "../recipes/php.rb"
